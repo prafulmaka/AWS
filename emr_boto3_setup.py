@@ -1,6 +1,7 @@
 import boto3
 from datetime import datetime
 
+# Used to setup EMR cluster using 1 Master and 2 Slaves
 
 # Get all Clusters
 client = boto3.client("emr", region_name='us-west-1')
