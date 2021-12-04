@@ -1,2 +1,2 @@
 # AWS
-Spark job on AWS EMR to be added to Airflow pipeline and visualized on Tableau
+Spark job on AWS EMR to analyze 18gb dataset --> Airflow pipeline --> visualized on Tableau
